@@ -1,0 +1,6 @@
+# GitHub Pages 配置（可选）
+# 在 repo 的 Settings → Pages 里选 "Deploy from a branch"，Source 选 main / root，
+# Pages 就会用这个主题把 README.md 和 docs/*.md 渲染成网站。
+title: 本地 AI 视频工程化指南
+description: 用开源模型 + 自己的算力，把 AI 视频生产做成能批量跑的流水线
+theme: jekyll-theme-cayman

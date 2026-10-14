@@ -1,0 +1,4 @@
+shot_id,type,ref_image,filename_prefix,seed,duration,width,height,ref_image_size,scheduler,positive_prompt
+S01,t2v,,S01_street_night,12345,5,720,1280,,,"A quiet city street at night, neon reflections on wet asphalt, slow dolly-in. Audio: distant traffic, light rain. No text, no subtitles, no watermarks."
+S02,t2v,,S02_coffee_closeup,23456,5,720,1280,,,"Close-up of steam rising from a coffee cup on a wooden table, warm morning light, shallow depth of field. Audio: soft cafe ambience. No text, no subtitles, no watermarks."
+S03,r2v,hero_base.png,S03_hero_walk,34567,5,720,1280,max,beta,"<Picture 1> defines the character throughout. He walks forward through a crowd, calm expression, handheld follow shot. His lips remain gently closed. Audio: footsteps and crowd murmur. No text, no subtitles, no watermarks."
